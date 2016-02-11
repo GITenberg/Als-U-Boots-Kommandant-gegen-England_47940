@@ -1,0 +1,33 @@
+_repo: Als-U-Boots-Kommandant-gegen-England_47940
+creator:
+  author:
+    agent_name: Forstner, Georg-Günther, Freiherr von
+    aliases:
+    - Forstner, Georg-Gunther, Freiherr von
+    - Forstner, G. G. (Georg Günther), Freiherr von
+    - Von Forstner, Georg-Günther, Freiherr
+    - Forstner, Günther Georg, Freiherr von
+    - Forstner, George Günther, Freiherr von
+    birthdate: 1882
+    deathdate: 1940
+    gutenberg_agent_id: '34377'
+    url: http://www.gutenberg.org/2009/agents/34377
+description: ''
+gutenberg_issued: '2015-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47940'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Naval operations, German'
+- !lcc 'D501'
+- !lcsh 'Submarine captains -- Germany -- Biography'
+- !lcsh 'Forstner, Georg-Günther, Freiherr von, 1882-1940 -- Diaries'
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcsh 'Submarine warfare'
+- !lcsh 'World War, 1914-1918 -- Naval operations -- Submarine'
+title: Als U-Boots-Kommandant gegen England
+url: http://www.gutenberg.org/ebooks/47940
