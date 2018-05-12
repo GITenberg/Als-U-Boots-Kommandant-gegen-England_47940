@@ -1,4 +1,8 @@
 _repo: Als-U-Boots-Kommandant-gegen-England_47940
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47940-h/images/cover.jpg
 creator:
   author:
     agent_name: Forstner, Georg-Günther, Freiherr von
@@ -13,6 +17,8 @@ creator:
     gutenberg_agent_id: '34377'
     url: http://www.gutenberg.org/2009/agents/34377
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47940#Als-U-Boots-Kommandant-gegen-England
 gutenberg_issued: '2015-01-11'
 gutenberg_type: Text
 identifiers:
